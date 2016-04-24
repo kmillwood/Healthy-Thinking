@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Thinking Healthy</string>
+    <string name="about">About</string>
+    <string name="action_settings">Settings</string>
+    <string name="camera_icon">Camera</string>
+    <string name="healthy_text">\nTo look at life in a balanced way by analyzing the positive, negative and neutral part of all situations.</string>
+    <string name="healthy_question">What Does It Mean To Think Healthy?</string>
+
+
+</resources>

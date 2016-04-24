@@ -1,0 +1,7 @@
+1.Added information for the focusing on positive thinking layout and practicing positive thinking layout
+2.Information now incorporated into card views
+3.Recycling views are implemented for 3 different layouts(identifying negative thinking, focusing on positive thinking, and practicing positive thinking)
+4.Camera icon has been added to the toolbar.
+5.Floating action button has been implemented.
+6.Both the camera menu icon and floating action camera button opens AR activity.
+7.Home tab contains definition of healthy thinking.

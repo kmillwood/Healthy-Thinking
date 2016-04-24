@@ -1,0 +1,137 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="edu.fau.kmillwood.healthythinking.FocusingFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="108dp"
+         />
+
+</RelativeLayout>
+
+    <!--
+    <ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context="edu.fau.kmillwood.healthythinking.FocusingFragment"
+        android:orientation="vertical"
+        android:background="#ffffff">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/identifyAreas"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:id="@+id/identifyChange"
+            android:layout_marginTop="113dp"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/colorAccent"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/identifyAreaText"
+            android:id="@+id/identifyAreaText"
+            android:textStyle="normal"
+            android:textColor="@color/colorAccent"
+            android:textSize="23sp"
+            android:layout_gravity="right" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/checkYourselfTitle"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:id="@+id/checkYourself"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:text="@string/checkYourselfText"
+            android:textSize="23sp"
+            android:id="@+id/checkYourselfText"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/humorTitle"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:id="@+id/humorTitle"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:text="@string/humorText"
+            android:textSize="23sp"
+            android:id="@+id/humorText"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/healthyLifeTitle"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:id="@+id/healthyLifeTitle"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:text="@string/healthLifeText"
+            android:textSize="23sp"
+            android:id="@+id/healthLifeText"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/positivePeopleTitle"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:id="@+id/positivePeopleTitle"
+            android:layout_gravity="center_horizontal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="normal"
+            android:text="@string/positivePeopleText"
+            android:textSize="23sp"
+            android:id="@+id/positivePeopleText"
+            android:textColor="#000000"/>
+
+
+    </LinearLayout>
+
+    </ScrollView>-->
