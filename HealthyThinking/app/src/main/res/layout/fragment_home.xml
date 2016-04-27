@@ -2,18 +2,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context="edu.fau.kmillwood.healthythinking.HomeFragment"
     android:background="#ffffffff"
-    android:orientation="vertical"
-    android:paddingTop="100dp"
-    >
+    android:orientation="vertical">
     <ImageView
         android:id="@+id/healthyImage"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:src="@drawable/thinking_healthy_logo"
         android:contentDescription="@string/app_name"
-        android:layout_weight="3"/>
+        android:layout_weight="3"
+        android:adjustViewBounds="true" />
 
     <TextView
         android:id="@+id/healthyQuestion"
