@@ -2,7 +2,6 @@ package edu.fau.kmillwood.healthythinking;
 
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
-import android.content.res.ColorStateList;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -16,7 +15,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.Window;
 import android.view.WindowManager;
-import android.widget.ListView;
 import android.widget.Toast;
 
 public class TabLayoutActivity extends AppCompatActivity {
