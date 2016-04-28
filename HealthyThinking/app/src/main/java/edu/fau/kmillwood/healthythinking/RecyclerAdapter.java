@@ -28,7 +28,7 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
             "This is where you make every negative thing about yourself and believe that it\'s your fault that the negative thing continues to happen.",
             "This is where you identify and associate yourself with global labels that are meant to demean individuals.",
             "This is where you match your feelings with the truth. You believe that the negative things are true because you feel that way.",
-            "This is where you think that every negative thing is apart of some cycle and just because a certain incident occurred something else is bound to happen.",
+            "This is where you think that every negative thing is a part of some cycle and just because a certain incident occurred something else is bound to happen.",
             "This is where you see things only as good or bad and never see any middle ground.",
             "This is where an individual feel like anything but perfection is a total disappointment. Unrealistic standards are set and you feel trapped inside them.",
             "This is where you magnify the importance of a problem or shortcoming and make it more serious then it needs to be while minimizing the significance of an accomplishment.",
